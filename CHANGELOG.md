@@ -1,5 +1,51 @@
 # Changelog
 
+## 0.1.0 (2024-11-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* Updating all modules and modernizing
+* Updating user module with missing variable
+* Initial release
+
+### Features
+
+* adding healthchecks to access and standalone ([c98f68f](https://github.com/CyberViking949/cloudflare-modules/commit/c98f68f1712b68b1108a96ee4b87c11864f0eb49))
+* adding module for lists ([dce7092](https://github.com/CyberViking949/cloudflare-modules/commit/dce709206a447662cdd0bfa79e31b0c3c659c85b))
+* Adding new examples and waf exceptions ([74b0764](https://github.com/CyberViking949/cloudflare-modules/commit/74b0764480c583f0a67a5f37fb6e028bfa5a6665))
+* adding new pages module ([4e8c58d](https://github.com/CyberViking949/cloudflare-modules/commit/4e8c58dc8e3a8ae1ac1905366b51f41d83b8f916))
+* adding notification module ([4526f7a](https://github.com/CyberViking949/cloudflare-modules/commit/4526f7a8990c35637d5ecff797086d80c9e09eb0))
+* adding notification module ([7e617cb](https://github.com/CyberViking949/cloudflare-modules/commit/7e617cbb87bd991de8b177bc3de0e577da9f0cd9))
+* fixing firewall module to for new structure ([6aad283](https://github.com/CyberViking949/cloudflare-modules/commit/6aad283bc6f942e9a0fe91c7c2827caac9d955ba))
+* generating release ([4be0bba](https://github.com/CyberViking949/cloudflare-modules/commit/4be0bbab7ebaac4f4999cf4d90bac47f23c93766))
+* Initial release ([124a737](https://github.com/CyberViking949/cloudflare-modules/commit/124a737f065a91a92d6259d593a304107eba996c))
+* making account_id, zone_id, & roles dymanic ([dfd2919](https://github.com/CyberViking949/cloudflare-modules/commit/dfd29191cd30394ecc0e7514ec261e3a03174361))
+* update provider ([30f9a5a](https://github.com/CyberViking949/cloudflare-modules/commit/30f9a5a660b3fa50e5fbd380c0266b11d919a210))
+* Updating all modules and modernizing ([f8ad9e8](https://github.com/CyberViking949/cloudflare-modules/commit/f8ad9e81a2d8af252c11c4d7aa19b9bdb4359773))
+* updating firewall module ([422b381](https://github.com/CyberViking949/cloudflare-modules/commit/422b3818fdd303a6c83bf84b056c5ded8165a7e9))
+* updating firewall module custom ruleset ([f2ab07e](https://github.com/CyberViking949/cloudflare-modules/commit/f2ab07ed5e003ec3659b56844bfdedc0d1b7c0e5))
+* Updating user module with missing variable ([2d844fd](https://github.com/CyberViking949/cloudflare-modules/commit/2d844fdb4e39516f5bfe26b121d7ab6f0c5b6e07))
+
+
+### Bug Fixes
+
+* firewall bot rule ([80dd7b3](https://github.com/CyberViking949/cloudflare-modules/commit/80dd7b305c4f63b5a580da133018a5b5996f3abf))
+* fixing dynamic rules ([80070b0](https://github.com/CyberViking949/cloudflare-modules/commit/80070b081d0cd6bc93e8338c8778dc0804b0f830))
+* fixing output ([fc741ad](https://github.com/CyberViking949/cloudflare-modules/commit/fc741ad3dfebb3292057196c0df9add02601c3a8))
+* fixing response code ([5e63d9f](https://github.com/CyberViking949/cloudflare-modules/commit/5e63d9fcc229a03606379395be5ad3f4d707081e))
+* fixing secret storage retrieval ([1f97022](https://github.com/CyberViking949/cloudflare-modules/commit/1f97022d8e5295e978ec23c4251291405d22260f))
+* format code ([1821684](https://github.com/CyberViking949/cloudflare-modules/commit/18216844442dbfb8521d8c8d9d782bf66443ebb9))
+* format code ([49e08dc](https://github.com/CyberViking949/cloudflare-modules/commit/49e08dc5947db4a4e95ca4da4225753004ebda08))
+* formatting ([85d7c3b](https://github.com/CyberViking949/cloudflare-modules/commit/85d7c3b22c2232fbb5be9ea83eb98cabb775f4e4))
+* hc ignore zone_id change ([836d281](https://github.com/CyberViking949/cloudflare-modules/commit/836d281316deee7ba69f48f1a02c40151b0a4591))
+* hc names ([ed1d727](https://github.com/CyberViking949/cloudflare-modules/commit/ed1d7277ee0c245947db4beda844d3c90ab324e1))
+* hc port definable ([574dfbe](https://github.com/CyberViking949/cloudflare-modules/commit/574dfbe3587ffa6d53f618cec1c4829780d8118f))
+* ignoring changes on zone_id ([df84940](https://github.com/CyberViking949/cloudflare-modules/commit/df84940338d75b9a0ed4cc49d93314b54cc4e8dd))
+* readd providers ([1084374](https://github.com/CyberViking949/cloudflare-modules/commit/108437497f88d5073da3cb9097c5ed9d33c9dd38))
+* resource naming ([4bb480b](https://github.com/CyberViking949/cloudflare-modules/commit/4bb480b225f5acd68b6ea386a46db917f4a35418))
+* submodule ([ca99ce7](https://github.com/CyberViking949/cloudflare-modules/commit/ca99ce7100ff74a1c9ab49ce7a6db5ec968dbce9))
+
 ## [2.6.0](https://github.com/Gravitas-Security/Cloudflare-Modules/compare/v2.5.3...v2.6.0) (2024-03-05)
 
 
